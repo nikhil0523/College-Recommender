@@ -16,7 +16,7 @@ import pandas as pd
 # In[14]:
 
 
-df = pd.read_excel("C:\\Users\\nikhi\\Downloads\\WBJEE2.xlsx")
+df = pd.read_excel("WBJEE2.xlsx")
 
 
 # In[ ]:
